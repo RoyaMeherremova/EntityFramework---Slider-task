@@ -1,0 +1,493 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FrontToBack-Sophia.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FrontToBack-Sophia.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\39666601-0d55-4c27-8ecc-7981ffffdec8.jfif",
+      "PackagePath": "staticwebassets\\assets\\img\\39666601-0d55-4c27-8ecc-7981ffffdec8.jfif"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\707e74cd-f654-45eb-9fe2-5a75308b4c83.jfif",
+      "PackagePath": "staticwebassets\\assets\\img\\707e74cd-f654-45eb-9fe2-5a75308b4c83.jfif"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\Photocamera1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Photocamera1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\Photocamera2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Photocamera2.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\Photocamera3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Photocamera3.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\Photocamera4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Photocamera4.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\Photocamera5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Photocamera5.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\aboutUs-photo.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\aboutUs-photo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\avatar-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatar-1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\avatar-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatar-2.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\avatar-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatar-3.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\blac-logo-sophia.jfif",
+      "PackagePath": "staticwebassets\\assets\\img\\blac-logo-sophia.jfif"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\cameras.png",
+      "PackagePath": "staticwebassets\\assets\\img\\cameras.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\collegues-photo.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\collegues-photo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\comp.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\comp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\french.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\french.svg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\gb.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\gb.svg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\germany.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\germany.svg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\headphone.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\headphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\headphone1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\headphone1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\headphone2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\headphone2.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\headphone3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\headphone3.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\headphone4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\headphone4.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\headphone5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\headphone5.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\headphone6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\headphone6.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\headphones1.jfif",
+      "PackagePath": "staticwebassets\\assets\\img\\headphones1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\headphones2.jfif",
+      "PackagePath": "staticwebassets\\assets\\img\\headphones2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\headphones3.jfif",
+      "PackagePath": "staticwebassets\\assets\\img\\headphones3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\laptop.png",
+      "PackagePath": "staticwebassets\\assets\\img\\laptop.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\laptop1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\laptop1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\laptop2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\laptop2.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\laptops1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\laptops1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\laptops2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\laptops2.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\laptops3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\laptops3.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\laptops4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\laptops4.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\laptops5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\laptops5.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\laptops6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\laptops6.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\logo-white.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\member1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\member1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\member2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\member2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\member3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\member3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\member4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\member4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\mobiles (1).png",
+      "PackagePath": "staticwebassets\\assets\\img\\mobiles (1).png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\mobiles.png",
+      "PackagePath": "staticwebassets\\assets\\img\\mobiles.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\phone1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\phone1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\phone1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\phone1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\phone2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\phone2.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\phone3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\phone3.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\russian.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\russian.svg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\sophia-logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\sophia-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\tablet.png",
+      "PackagePath": "staticwebassets\\assets\\img\\tablet.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\turkis.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\turkis.svg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\watch.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\watch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\img\\watch2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\watch2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\js\\about.js",
+      "PackagePath": "staticwebassets\\assets\\js\\about.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\js\\account.js",
+      "PackagePath": "staticwebassets\\assets\\js\\account.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\js\\basket.js",
+      "PackagePath": "staticwebassets\\assets\\js\\basket.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\js\\blog.js",
+      "PackagePath": "staticwebassets\\assets\\js\\blog.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\js\\checkout.js",
+      "PackagePath": "staticwebassets\\assets\\js\\checkout.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\js\\contact.js",
+      "PackagePath": "staticwebassets\\assets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\js\\home.js",
+      "PackagePath": "staticwebassets\\assets\\js\\home.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\js\\productDetail.js",
+      "PackagePath": "staticwebassets\\assets\\js\\productDetail.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\js\\wishlist.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wishlist.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\about.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\about.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\about.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\about.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\about.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\about.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\account.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\account.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\account.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\account.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\account.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\account.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\basket.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\basket.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\basket.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\basket.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\basket.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\basket.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\blog.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\blog.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\blog.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\blog.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\blog.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\checkout.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\checkout.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\checkout.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\checkout.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\checkout.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\checkout.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\contact.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\contact.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\contact.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\contact.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\home.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\home.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\home.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\home.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\home.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\productDetail.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\productDetail.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\productDetail.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\productDetail.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\productDetail.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\productDetail.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\wishlist.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\wishlist.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\wishlist.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\wishlist.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\scss\\wishlist.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\wishlist.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\.gitignore",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\CONTRIBUTING.markdown",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\CONTRIBUTING.markdown"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\ISSUE_TEMPLATE.md",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\ISSUE_TEMPLATE.md"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\LICENSE",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\Makefile",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\README.markdown",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\README.markdown"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\bower.json",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\component.json",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\component.json"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\index.html",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\package.json",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\slick.jquery.json",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick.jquery.json"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\config.rb"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\slick\\slick-theme.css.map",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\slick-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\slick\\slick.css.map",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\slick.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\slick.less"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia\\wwwroot\\assets\\slick-1.8.1\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\slick.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FrontToBack-Sophia.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FrontToBack-Sophia.props",
+      "PackagePath": "build\\FrontToBack-Sophia.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FrontToBack-Sophia.props",
+      "PackagePath": "buildMultiTargeting\\FrontToBack-Sophia.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FrontToBack-Sophia.props",
+      "PackagePath": "buildTransitive\\FrontToBack-Sophia.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
